@@ -1,0 +1,23 @@
+_repo: The-Magical-Chance_60872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharp, Dallas Lore
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '5640'
+    url: http://www.gutenberg.org/2009/agents/5640
+    wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
+description: ''
+gutenberg_issued: '2019-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Magical Chance
+url: http://www.gutenberg.org/ebooks/60872
