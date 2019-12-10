@@ -1,5 +1,8 @@
 _repo: The-Magical-Chance_60872
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60872-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharp, Dallas Lore
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5640
     wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60872#The-Magical-Chance
 gutenberg_issued: '2019-12-07'
 gutenberg_type: Text
 identifiers:
